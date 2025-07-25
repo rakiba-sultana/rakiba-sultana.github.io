@@ -12,7 +12,7 @@ main:
     url: /files/Rakiba-Sultana-CV.pdf
     
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&user=y7jgYZQAAAAJ&view_op=list_works&gmla=AH70aAUHhmHzjolasG5Zy0F1CTsf76DXDiSkbVc3pEMycC_nrfnw6pdRhDd6nXoo_NpK-oOp6sY_bETTQf_VaAGH
 
   - title: "Talks"
     url: /talks/    
