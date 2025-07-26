@@ -14,6 +14,6 @@ My research focuses on understanding **contaminant transport mechanisms in the v
 
 I assimilate **analytical lab tehcniques, environmental data science, groundwater modeling, and field-based experiments** into my research.
 
-![Mechanisms of Contaminant Transport](/images/bio-photo-2.jpg){: .align-right width="250px"}
+![Mechanisms of Contaminant Transport](/images/Picture1.png){: .align-right width="250px"}
 
 
