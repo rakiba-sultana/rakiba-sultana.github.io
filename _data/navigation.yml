@@ -22,8 +22,10 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+   - title: "Portfolio"
+     url: /portfolio/
+             project1.md
+             project2.md
         
  # - title: "Field Work"
  #   url: images/Riverton/
