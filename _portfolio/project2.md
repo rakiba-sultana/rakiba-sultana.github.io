@@ -1,6 +1,6 @@
 ---
 title: "Project 2"
-permalink: /portfolio/
+permalink: portfolio
 ---
 
 ABSTRACT
