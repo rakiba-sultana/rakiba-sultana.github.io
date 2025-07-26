@@ -14,4 +14,4 @@ My research focuses on understanding **contaminant transport mechanisms in the v
 
 I assimilate **analytical lab tehcniques, environmental data science, groundwater modeling, and field-based experiments** into my research.
 
-<img src="/images/Fig.9.png.jpg" alt="Rakiba Sultana" align="right" width="250">
+<img src="/images/Fig.9.png" alt="Rakiba Sultana" align="right" width="250">
