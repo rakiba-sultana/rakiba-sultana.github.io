@@ -41,23 +41,24 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ==== Custom Minimalist Overrides ==== */
+/* ==== Custom Minimalist Georgia Font Overrides ==== */
 
 body {
-  font-family: 'Lora', serif;
-  font-size: 17px;         /* slightly larger for readability */
-  line-height: 1.7;        /* airy spacing */
-  color: #222;             /* dark gray, softer than pure black */
-  background-color: #fff;  /* clean white background */
+  font-family: Georgia, serif;
+  font-size: 17px;        /* clean, readable size */
+  line-height: 1.7;       /* airy spacing */
+  color: #222;            /* softer than pure black */
+  background-color: #fff; /* clean white background */
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Lora', serif;
-  font-weight: 600;        /* sleek bold headings */
-  letter-spacing: 0.3px;   /* subtle spacing for elegance */
-  margin-bottom: 0.4em;    /* tight but readable spacing */
+  font-family: Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.3px;  /* subtle spacing for elegance */
+  margin-bottom: 0.4em;
 }
 
 p {
-  margin-bottom: 1.2em;    /* good spacing between paragraphs */
+  margin-bottom: 1.2em;
 }
+
