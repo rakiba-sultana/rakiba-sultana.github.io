@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "Project 2"
-permalink: /projects/project2/
+permalink: /portfolio/
 ---
 
 ABSTRACT
