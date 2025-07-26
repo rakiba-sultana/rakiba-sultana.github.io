@@ -9,8 +9,12 @@ redirect_from:
 
 
 
-![Mechanisms of Contaminant Transport](/images/Picture1.png){: .align-right width="300px"}
-*Sultana et al., (2024)*
+<figure style="float: right; width: 300px; text-align: center; margin-left: 15px;">
+  <img src="/images/Picture1.png" alt="Mechanisms of Contaminant Transport" width="300">
+  <figcaption style="font-size: 0.9em; color: gray;">
+    Mechanisms of Contaminant Transport
+  </figcaption>
+</figure>
 
 Hi, I’m **Rakiba Sultana**!  
 I am a Ph.D. candidate at the Dept. of Geosciences, University of Wisconsin–Milwaukee.  
