@@ -9,9 +9,9 @@ redirect_from:
 
 
 Hi, I’m **Rakiba Sultana**!  
-I am a Ph.D. candidate in Hydrogeology at the University of Wisconsin–Milwaukee.  
+I am a Ph.D. candidate at the Dept. of Geosciences, University of Wisconsin–Milwaukee.  
 My research focuses on understanding **contaminant transport mechanisms during flooding events**.
 
-I am also passionate about **environmental data science, groundwater modeling, and field-based experiments**.
+I assimilate **analytical lab tehcniques, environmental data science, groundwater modeling, and field-based experiments** into my research.
 
 
