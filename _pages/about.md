@@ -15,4 +15,4 @@ My research focuses on understanding **contaminant transport mechanisms during f
 
 I am also passionate about **environmental data science, groundwater modeling, and field-based experiments**.
 
-You can read more about my work on my [Google Scholar](https://scholar.google.com/).
+
