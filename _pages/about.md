@@ -12,10 +12,10 @@ redirect_from:
 ![Mechanisms of Contaminant Transport](/images/Picture1.png){: .align-right width="300px"}
 
 Hi, I’m **Rakiba Sultana**!  
-I am a Ph.D. candidate at the Dept. of Geosciences, University of Wisconsin–Milwaukee.  
-My research focuses on understanding **contaminant transport mechanisms in the vadose zone and groundwater during flooding events**.
+I am a Ph.D. candidate (Aug. 2025 exp) at the Dept. of Geosciences, University of Wisconsin–Milwaukee.  
+My research broadly focuses on understanding **contaminant transport mechanisms in the vadose zone and groundwater during flooding events**. 
 
-I assimilate **analytical lab tehcniques, environmental data science, groundwater modeling, and field-based experiments** into my research.
+My work integrates **analytical laboratory techniques** (e.g., Scanning Electron Microscopy with Energy-Dispersive X-ray Spectroscopy), **hydrogeological field experiments**, **analytical modeling**, and **numerical modeling** using the MODFLOW 6 suite, with model calibration in PEST and PEST++ and Python-based pre- and post-processing (FloPy, PyEMU).
 
 
 
