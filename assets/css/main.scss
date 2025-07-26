@@ -41,17 +41,49 @@
     "vendor/font-awesome/brands"
 ;
 
-body {
-  font-family: Georgia, serif;
-  font-size: 17px;
-  line-height: 1.7;
-  color: #222;
-  background-color: #fff;
+/* ==== Minimal Sidebar & Navigation Tweaks ==== */
+
+/* Sidebar: slimmer and cleaner */
+.sidebar {
+  width: 220px;                  /* narrower than default */
+  padding: 1rem 0.5rem;          /* less padding */
+  background: #fff !important;   /* clean white */
+  border: none !important;       /* remove sidebar borders */
+  box-shadow: none !important;   /* no shadow */
+  font-size: 15px;               /* slightly smaller text */
+  line-height: 1.5;
 }
 
-h1, h2, h3, h4 {
-  font-family: Georgia, serif;
-  font-weight: 600;
-  letter-spacing: 0.3px;
-  margin-bottom: 0.4em;
+.sidebar .author__content {
+  text-align: center;            /* nicely centered profile text */
+  margin-top: 0.5rem;
 }
+
+.sidebar .author__urls {
+  margin-top: 0.5rem;
+  font-size: 14px;
+}
+
+/* Navigation Bar: minimal */
+.masthead {
+  background: #fff !important;   /* white clean background */
+  border-bottom: 1px solid #eee; /* thin subtle border */
+  box-shadow: none !important;
+}
+
+.masthead__menu {
+  font-size: 15px;
+}
+
+.masthead__menu-item {
+  padding: 0 0.6rem;             /* tighter spacing */
+}
+
+/* Footer: lighter */
+.footer {
+  background: #fff !important;
+  border-top: 1px solid #eee;
+  color: #666;
+  font-size: 14px;
+}
+
