@@ -1,7 +1,11 @@
 ---
-permalink: /about/
+permalink: 
 title: "Hello! I am Rakiba!"
+excerpt: "About me"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 # About Me
