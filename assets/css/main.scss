@@ -105,9 +105,8 @@ h1, h2, h3, h4 {
 
 /* ==== Circular Profile Image in Sidebar ==== */
 .author__avatar img {
-  border-radius: 50% !important; /* Makes it perfectly circular */
-  width: 150px;                  /* Set equal width */
-  height: 150px;                 /* Set equal height */
-  object-fit: cover;             /* Crop the image to fill the circle */
-  border: 2px solid #eee;        /* (Optional) soft border */
+  border-radius: 50% !important; /* Makes it circular */
+  width: 150px !important;       /* Equal width */
+  height: 150px !important;      /* Equal height */
+  object-fit: cover !important;  /* Crops to fit circle */
 }
