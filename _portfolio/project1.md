@@ -1,6 +1,6 @@
 ---
 title: "Project 1"
-excerpt: ". 1<br/><img src='/images/prj1.png'>"
+excerpt: "1<br/><img src='/images/prj1.png'>"
 collection: Projects
 ---
 
