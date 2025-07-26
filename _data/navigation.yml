@@ -11,20 +11,20 @@ main:
   - title: "CV"
     url: files/RS-CV.pdf
     
-  - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=y7jgYZQAAAAJ&view_op=list_works&gmla=AH70aAUHhmHzjolasG5Zy0F1CTsf76DXDiSkbVc3pEMycC_nrfnw6pdRhDd6nXoo_NpK-oOp6sY_bETTQf_VaAGH
+#  - title: "Publications"
+#    url: https://scholar.google.com/citations?hl=en&user=y7jgYZQAAAAJ&view_op=list_works&gmla=AH70aAUHhmHzjolasG5Zy0F1CTsf76DXDiSkbVc3pEMycC_nrfnw6pdRhDd6nXoo_NpK-oOp6sY_bETTQf_VaAGH
 
 # - title: "Talks"
 #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
  #- title: "Portfolio"
  #  url: /portfolio/
         
-  - title: "Field Work"
-    url: images/Riverton/
+ # - title: "Field Work"
+ #   url: images/Riverton/
     
   #- title: "CV"
   #  url: /cv/
