@@ -14,11 +14,6 @@ main:
 
   - title: "Projects"
     url: /portfolio/
-    children:
-      - title: "Project 1"
-        url: /portfolio/project1/
-      - title: "Project 2"
-        url: /portfolio/project2/
 
 ---
     
