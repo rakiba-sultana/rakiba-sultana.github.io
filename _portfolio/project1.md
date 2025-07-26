@@ -1,6 +1,6 @@
 ---
 title: "Project 1"
-excerpt: "Uranium co-occurrence with Al-rich and Fe-rich coatings in Riverton sediments. 1<br/><img src='/images/prj1.png'>"
+#excerpt: "Uranium co-occurrence with Al-rich and Fe-rich coatings in Riverton sediments. 1<br/><img src='/images/prj1.png'>"
 collection: Projects
 ---
 
