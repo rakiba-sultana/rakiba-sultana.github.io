@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-#![Illustration of Totoro](/images/Tototo_Stickers.jfif){: .align-right width="300px"}
 
 Hi, I’m **Rakiba Sultana**!  
 I am a Ph.D. candidate in Hydrogeology at the University of Wisconsin–Milwaukee.  
