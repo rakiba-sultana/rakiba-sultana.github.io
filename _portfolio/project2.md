@@ -1,5 +1,6 @@
 ---
 title: "Project 2"
+excerpt: "Contaminants spike during flooding events. 1<br/><img src='/images/prj2.png'>"
 collection: Projects
 ---
 
