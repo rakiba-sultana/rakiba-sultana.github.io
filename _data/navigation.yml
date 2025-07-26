@@ -23,8 +23,13 @@ main:
  #- title: "Portfolio"
  #  url: /portfolio/
         
-  - title: "Field Work"
-    url: images/Riverton/cherry blossom.png
+ - title: "Field Work"
+  url: /fieldwork/    # This points to a Field Work main page (optional)
+  children:
+    - title: "Riverton"
+      url: /fieldwork/riverton/
+    - title: "Cherry Blossom"
+      url: /fieldwork/cherry-blossom/
     
   #- title: "CV"
   #  url: /cv/
