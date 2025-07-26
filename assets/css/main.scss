@@ -80,6 +80,11 @@ h1, h2, h3, h4 {
   font-size: 18px;
 }
 
+.sidebar {
+  height: auto;
+  align-self: flex-start;
+}
+
 /* Navigation Bar - clean white with thin border */
 .masthead {
   background: #fff !important;
