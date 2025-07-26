@@ -1,7 +1,7 @@
 ---
-layout: page
 title: "Project 1"
-permalink: /_portfolio/project1/
+excerpt: "Uranium co-occurrence with Al-rich and Fe-rich coatings in Riverton sediments. 1<br/><img src='/images/prj1.png'>"
+collection: portfolio
 ---
 
 Abstract
@@ -9,10 +9,3 @@ Residual solid-phase uranium from former mill tailings leachate can contribute t
 
 Sultana, R., Dangelmayr, M.A., Paradis, C.J., Johnson, R.H., 2024. Combining fission-track radiography and scanning electron microscopy to identify uranium host phases. Environ Earth Sci 83, 56. https://doi.org/10.1007/s12665-023-11373-5
 
-
-<figure style="text-align: center;">
-  <img src="/images/prj1.png" alt="Uranium analysis in Riverton sediments" width="400">
-  <figcaption style="font-size: 0.9em; color: gray;">
-    Figure 1. Uranium co-occurrence with Al-rich and Fe-rich coatings in Riverton sediments.
-  </figcaption>
-</figure>
