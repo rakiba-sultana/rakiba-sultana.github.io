@@ -41,21 +41,37 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ==== Minimal Sidebar & Navigation Tweaks ==== */
+/* ==== Custom Georgia Font Overrides ==== */
+body {
+  font-family: Georgia, serif;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #222;
+  background-color: #fff;
+}
 
-/* Sidebar: slimmer and cleaner */
+h1, h2, h3, h4 {
+  font-family: Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  margin-bottom: 0.4em;
+}
+
+/* ==== Minimal Sidebar & Navigation Tweaks (Sidebars Visible) ==== */
+
+/* Sidebar - slim and clean */
 .sidebar {
-  width: 220px;                  /* narrower than default */
-  padding: 1rem 0.5rem;          /* less padding */
-  background: #fff !important;   /* clean white */
-  border: none !important;       /* remove sidebar borders */
-  box-shadow: none !important;   /* no shadow */
-  font-size: 15px;               /* slightly smaller text */
+  width: 220px;                  /* default ~300px, now slimmer */
+  padding: 1rem 0.5rem;
+  background: #fff !important;
+  border: none !important;
+  box-shadow: none !important;
+  font-size: 15px;
   line-height: 1.5;
 }
 
 .sidebar .author__content {
-  text-align: center;            /* nicely centered profile text */
+  text-align: center;
   margin-top: 0.5rem;
 }
 
@@ -64,10 +80,10 @@
   font-size: 14px;
 }
 
-/* Navigation Bar: minimal */
+/* Navigation Bar - clean white with thin border */
 .masthead {
-  background: #fff !important;   /* white clean background */
-  border-bottom: 1px solid #eee; /* thin subtle border */
+  background: #fff !important;
+  border-bottom: 1px solid #eee;
   box-shadow: none !important;
 }
 
@@ -76,14 +92,15 @@
 }
 
 .masthead__menu-item {
-  padding: 0 0.6rem;             /* tighter spacing */
+  padding: 0 0.6rem; /* slightly tighter spacing */
 }
 
-/* Footer: lighter */
+/* Footer - soft and minimal */
 .footer {
   background: #fff !important;
   border-top: 1px solid #eee;
   color: #666;
   font-size: 14px;
 }
+
 
