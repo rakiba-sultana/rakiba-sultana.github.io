@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rakiba's Homepage"
+title                    : "RS"
 title_separator          : "-"
 name                     : &name "Rakiba Sultana"
 description              : &description "personal description"
