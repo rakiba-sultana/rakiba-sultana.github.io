@@ -16,21 +16,11 @@ permalink: /cv/
 ---
 
 # **Rakiba Sultana**  
-Ph.D. Candidate in Hydrogeology | University of Wisconsin–Milwaukee  
-📞 +1-414-217-1818 | 📧 [sultana.rakiba151@gmail.com](mailto:sultana.rakiba151@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/rakibasultana151/) | [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-6422-2962) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=y7jgYZQAAAAJ&view_op=list_works) | [GitHub](https://github.com/rakiba-sultana)
-
----
-
-## **Summary**
-
-I am a Ph.D. candidate (expected Aug 2025) in the Department of Geosciences at the University of Wisconsin–Milwaukee, investigating contaminant transport mechanisms in the vadose zone and groundwater during natural flooding events. My work integrates analytical laboratory techniques (e.g., SEM-EDS), hydrogeological field experiments, analytical modeling, and numerical modeling using MODFLOW 6, with model calibration in PEST/PEST++ and Python-based workflows (FloPy, PyEMU).
-
 ---
 
 ## **Education**
 
-- **Ph.D., Hydrogeology** – University of Wisconsin–Milwaukee (Expected Aug 2025)  
+- **Ph.D., Hydrogeology** – University of Wisconsin–Milwaukee (Aug 2025 Expected)  
 - **M.S., Petroleum Geology** – University of Dhaka (2017–2019)  
 - **B.S., Geology** – University of Dhaka (2013–2017)  
 
