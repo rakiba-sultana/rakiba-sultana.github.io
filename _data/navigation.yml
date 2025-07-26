@@ -8,9 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 ---
-title: "CV"
-permalink: /_pages/cv.md
-layout: page
+main:
+  - title: "CV"
+    url: /cv/
 ---
     
 #  - title: "Publications"
