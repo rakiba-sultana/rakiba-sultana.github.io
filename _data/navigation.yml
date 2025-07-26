@@ -9,7 +9,7 @@
 
 main:
   - title: "About"
-    url: /about/RS-about-me.md
+    url: /_pages/RS-about-me.md
     
   - title: "CV"
     url: files/RS-CV.pdf
