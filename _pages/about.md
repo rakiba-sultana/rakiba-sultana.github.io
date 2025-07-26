@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I’m **Rakiba Sultana**!  
 I am a Ph.D. candidate at the Dept. of Geosciences, University of Wisconsin–Milwaukee.  
-My research focuses on understanding **contaminant transport mechanisms during flooding events**.
+My research focuses on understanding **contaminant transport mechanisms in the vadose zone and groundwater during flooding events**.
 
 I assimilate **analytical lab tehcniques, environmental data science, groundwater modeling, and field-based experiments** into my research.
 
