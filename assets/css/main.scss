@@ -41,68 +41,23 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ==== Minimalist Overrides for JiInJung-Style Clean Look ==== */
+/* ==== Custom Minimalist Georgia Font Overrides ==== */
 
-/* Global Typography */
 body {
   font-family: Georgia, serif;
-  font-size: 17px;
-  line-height: 1.7;
-  color: #222;
-  background-color: #fff;
+  font-size: 17px;        /* clean, readable size */
+  line-height: 1.7;       /* airy spacing */
+  color: #222;            /* softer than pure black */
+  background-color: #fff; /* clean white background */
 }
 
-/* Headings */
 h1, h2, h3, h4 {
   font-family: Georgia, serif;
   font-weight: 600;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.3px;  /* subtle spacing for elegance */
   margin-bottom: 0.4em;
 }
 
-/* Paragraphs */
 p {
   margin-bottom: 1.2em;
 }
-
-/* Remove Sidebar */
-.sidebar,
-.masthead__menu,
-.author__profile,
-.page__meta,
-.footer {
-  display: none !important;
-}
-
-/* Remove Borders & Shadows */
-.page, .page__inner-wrap, .archive__item, .archive__subtitle {
-  border: none !important;
-  box-shadow: none !important;
-  background: none !important;
-}
-
-/* Center Content & Add Breathing Space */
-.page__content {
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
-/* Clean Navigation (optional) */
-.masthead {
-  border: none !important;
-  box-shadow: none !important;
-  background: #fff !important;
-}
-
-/* Links - subtle gray with soft hover */
-a {
-  color: #444;
-  text-decoration: none;
-  border-bottom: 1px solid #ccc;
-}
-a:hover {
-  color: #000;
-  border-bottom: 1px solid #000;
-}
-
