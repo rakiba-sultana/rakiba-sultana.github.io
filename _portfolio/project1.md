@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Project 1"
-permalink: /_portfolio/
+permalink: /_portfolio/project1/
 ---
 
 Abstract
