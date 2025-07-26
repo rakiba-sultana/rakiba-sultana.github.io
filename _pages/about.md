@@ -12,7 +12,7 @@ redirect_from:
 <figure style="float: right; width: 300px; text-align: center; margin-left: 15px;">
   <img src="/images/Picture1.png" alt="Mechanisms of Contaminant Transport" width="300">
   <figcaption style="font-size: 0.9em; color: gray;">
-    Mechanisms of Contaminant Transport
+     Sultana et al. (2024)
   </figcaption>
 </figure>
 
