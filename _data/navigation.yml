@@ -12,10 +12,14 @@ main:
   - title: "CV"
     url: /cv/
 
-   - title: "Projects"
-     url: /portfolio/
-             project1.md
-             project2.md
+  - title: "Projects"
+    url: /portfolio/
+    children:
+      - title: "Project 1"
+        url: /portfolio/project1/
+      - title: "Project 2"
+        url: /portfolio/project2/
+
 ---
     
 #  - title: "Publications"
