@@ -103,4 +103,11 @@ h1, h2, h3, h4 {
   font-size: 14px;
 }
 
-
+/* ==== Circular Profile Image in Sidebar ==== */
+.author__avatar img {
+  border-radius: 50% !important; /* Makes it perfectly circular */
+  width: 150px;                  /* Set equal width */
+  height: 150px;                 /* Set equal height */
+  object-fit: cover;             /* Crop the image to fill the circle */
+  border: 2px solid #eee;        /* (Optional) soft border */
+}
