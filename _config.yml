@@ -26,7 +26,7 @@ author:
   name             : "Rakiba Sultana"
   pronouns         : # example: "she/her"  
   bio              : "Contaminant Hydrogeology"
-  #location         : "Milwaukee, WI, USA"
+  location         : #"Milwaukee, WI, USA"
   employer         : "UW-Milwaukee"
   uri              : # URL
   email            : "sultana.rakiba151@gmail.com" 
@@ -38,8 +38,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6422-2962"
   semantic         : # URL
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #researchgate     : "https://www.researchgate.net/profile/Rakiba-Sultana-2"
+  #pubmed          :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate    :# "https://www.researchgate.net/profile/Rakiba-Sultana-2"
   scopus           : # URL
 
   # Repositories and software development
