@@ -11,6 +11,11 @@
 main:
   - title: "CV"
     url: /cv/
+
+   - title: "Projects"
+     url: /portfolio/
+             project1.md
+             project2.md
 ---
     
 #  - title: "Publications"
@@ -21,11 +26,7 @@ main:
 
 #  - title: "Teaching"
 #    url: /teaching/    
-    
-   - title: "Projects"
-     url: /portfolio/
-             project1.md
-             project2.md
+  
         
  # - title: "Field Work"
  #   url: images/Riverton/
