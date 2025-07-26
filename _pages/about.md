@@ -10,6 +10,7 @@ redirect_from:
 
 
 ![Mechanisms of Contaminant Transport](/images/Picture1.png){: .align-right width="300px"}
+*Sultana et al., (2024)*
 
 Hi, I’m **Rakiba Sultana**!  
 I am a Ph.D. candidate at the Dept. of Geosciences, University of Wisconsin–Milwaukee.  
