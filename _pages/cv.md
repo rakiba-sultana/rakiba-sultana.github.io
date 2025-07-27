@@ -42,11 +42,11 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 ## **Peer-Reviewed Publications**
 
 <pre>
-(5) <strong>Sultana, R.<strong>, Wallace, C.D., Tigar, A.D., Wahl, T.W., Hoss, K.H., Johnson, R.H., Paradis, C.J., 2025.Mechanisms for Contaminant Transport in the Vadose Zone During Infiltration Events. In prep for Journal of Contaminant Hydrology. (in review)
-(4) Hasan, A.B.M.R., <strong>Sultana, R.<strong>, Paradis, C.J., Pillai, K.M., 2025. Experimental investigation of upward and downward cycling of salt contaminants in the vadose zone. Journal of Contaminant Hydrology 104686. [DOI]https://doi.org/10.1016/j.jconhyd.2025.104686.
-(3) Paradis, C.J., <strong>Sultana, R.<strong>, Dangelmayr, M.A., Johnson, R.H., Kent, R.D., 2025. Breakthrough Curve Separation Using Applied Solute Tracers. Groundwater gwat.13480. [DOI]https://doi.org/10.1111/gwat.13480
-(2) <strong>Sultana, R.<strong>, Johnson, R.H., Tigar, A.D., Wahl, T.J., Meurer, C.E., Hoss, K.N., Xu, S., Paradis, C.J., 2024b. Contaminant mobilization from the vadose zone to groundwater during experimental river flooding events. Journal of Contaminant Hydrology 265, 104391. [DOI]https://doi.org/10.1016/j.jconhyd.2024.104391 
-(1) <strong>Sultana, R.<strong>, Dangelmayr, M.A., Paradis, C.J., Johnson, R.H., 2024a. Combining fission-track radiography and scanning electron microscopy to identify uranium host phases. Environ Earth Sci 83, 56. [DOI]https://doi.org/10.1007/s12665-023-11373-5 
+(5) <strong>Sultana, R.</strong>, Wallace, C.D., Tigar, A.D., Wahl, T.W., Hoss, K.H., Johnson, R.H., Paradis, C.J., 2025.Mechanisms for Contaminant Transport in the Vadose Zone During Infiltration Events. In prep for Journal of Contaminant Hydrology. (in review)
+(4) Hasan, A.B.M.R., <strong>Sultana, R.</strong>, Paradis, C.J., Pillai, K.M., 2025. Experimental investigation of upward and downward cycling of salt contaminants in the vadose zone. Journal of Contaminant Hydrology 104686. [DOI]https://doi.org/10.1016/j.jconhyd.2025.104686.
+(3) Paradis, C.J., <strong>Sultana, R.</strong>, Dangelmayr, M.A., Johnson, R.H., Kent, R.D., 2025. Breakthrough Curve Separation Using Applied Solute Tracers. Groundwater gwat.13480. [DOI]https://doi.org/10.1111/gwat.13480
+(2) <strong>Sultana, R.</strong>, Johnson, R.H., Tigar, A.D., Wahl, T.J., Meurer, C.E., Hoss, K.N., Xu, S., Paradis, C.J., 2024b. Contaminant mobilization from the vadose zone to groundwater during experimental river flooding events. Journal of Contaminant Hydrology 265, 104391. [DOI]https://doi.org/10.1016/j.jconhyd.2024.104391 
+(1) <strong>Sultana, R.</strong>, Dangelmayr, M.A., Paradis, C.J., Johnson, R.H., 2024a. Combining fission-track radiography and scanning electron microscopy to identify uranium host phases. Environ Earth Sci 83, 56. [DOI]https://doi.org/10.1007/s12665-023-11373-5 
 </pre>
 
 ---
@@ -54,10 +54,10 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 ## **Selected Conference Proceedings**
 
 <pre>
-(4) <strong>Sultana, R.<strong>, Johnson, R., Paradis, C., Fiene, M., 2024b. Workflow for Groundwater Flow from Saturated Zone to the Upper Vadose Zone to Explore River Flooding. AGU 2024 (Poster)
-(3) <strong>Sultana, R.<strong>, Johnson, R., Paradis, C., 2024a. Contaminant Transport from Contaminated Groundwater to The Upper Vadose Zone. GSA Connects 2024, https://doi.org/10.1130/abs/2024AM-403929 (Poster) 
-(2) <strong>Sultana, R.<strong>, Owen, H., Paradis, C., Johnson, R., 2022. Microscale visualization and  elemental analysis of solid-phase uranium geochemistry on contaminated sediments using fission track technology. GSA Connects 2022, https://doi.org/10.1130/abs/2022AM-379607 (Oral)
-(1) <strong>Sultana, R.<strong>, Hoss, K., Meurer, C., Hatami, J., Johnson, R., Tigar, A., Paradis, C., 2021. Surface infiltration of river water to groundwater to simulate periodic flooding events at a uranium-contaminated site. GSA Connects 2021, https://doi.org/10.1130/abs/2021AM-366575  (Oral) 
+(4) <strong>Sultana, R.</strong>, Johnson, R., Paradis, C., Fiene, M., 2024b. Workflow for Groundwater Flow from Saturated Zone to the Upper Vadose Zone to Explore River Flooding. AGU 2024 (Poster)
+(3) <strong>Sultana, R.</strong>, Johnson, R., Paradis, C., 2024a. Contaminant Transport from Contaminated Groundwater to The Upper Vadose Zone. GSA Connects 2024, https://doi.org/10.1130/abs/2024AM-403929 (Poster) 
+(2) <strong>Sultana, R.</strong>, Owen, H., Paradis, C., Johnson, R., 2022. Microscale visualization and  elemental analysis of solid-phase uranium geochemistry on contaminated sediments using fission track technology. GSA Connects 2022, https://doi.org/10.1130/abs/2022AM-379607 (Oral)
+(1) <strong>Sultana, R.</strong>, Hoss, K., Meurer, C., Hatami, J., Johnson, R., Tigar, A., Paradis, C., 2021. Surface infiltration of river water to groundwater to simulate periodic flooding events at a uranium-contaminated site. GSA Connects 2021, https://doi.org/10.1130/abs/2021AM-366575  (Oral) 
 </pre>
 
 ---
