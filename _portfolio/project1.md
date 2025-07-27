@@ -9,8 +9,15 @@ Residual solid-phase uranium from former mill tailings leachate can contribute t
 Sultana, R., Dangelmayr, M.A., Paradis, C.J., Johnson, R.H., 2024. Combining fission-track radiography and scanning electron microscopy to identify uranium host phases. Environ Earth Sci 83, 56. https://doi.org/10.1007/s12665-023-11373-5
 
 <figure style="text-align: center;">
-  <img src="/images/prj1.png" alt="Contaminant spike during floods" width="400">
+  <img src="/images/prj1.1.png" alt="FT-SEM" width="400">
   <figcaption style="font-size: 0.9em; color: gray;">
-    Figure 1. Trace-level uranium associated with Fe- and Al-rich coating aorund sediment grains.
+    Figure 1.1. Combined method of applying fission-track radiography and SEM-EDS.
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="/images/prj1.png" alt="FT-SEM" width="400">
+  <figcaption style="font-size: 0.9em; color: gray;">
+    Figure 1.2. Trace-level uranium associated with Fe- and Al-rich coating aorund sediment grains.
   </figcaption>
 </figure>
