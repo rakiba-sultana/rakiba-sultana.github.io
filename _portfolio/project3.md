@@ -16,7 +16,7 @@ Rakiba Sultana, Corey D. Wallace, Aaron D. Tigar, Timothy J. Wahl, Kendyl N. Hos
 </figure>
 
 <figure style="text-align: center;">
-  <img src="/images/prj3.2.png" alt="Model3" width="400">
+  <img src="/images/prj3.2.1.png" alt="Model3" width="400">
   <figcaption style="font-size: 0.9em; color: gray;">
     Figure 3.2. Calibrated transport model during infiltration experiment-01.
   </figcaption>
