@@ -8,6 +8,10 @@ Infiltration events, such as natural river flooding or managed aquifer recharge,
 
 Rakiba Sultana, Corey D. Wallace, Aaron D. Tigar, Timothy J. Wahl, Kendyl N. Hoss, Raymond H. Johnson, Charles J. Paradis. 2025. Mechanisms for Contaminant Transport in the Vadose Zone During Infiltration Events. Journal of Contaminant Hydrology. (In Review)
 
+<a href="https://github.com/rakiba-sultana/Analytical-transport-model" target="_blank">
+  🔗 View Code on GitHub
+</a>
+
 <figure style="text-align: center;">
   <img src="/images/prj3.1.png" alt="Model1" width="400">
   <figcaption style="font-size: 0.9em; color: gray;">
