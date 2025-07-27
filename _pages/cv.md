@@ -11,11 +11,22 @@ redirect_from:
 # **Rakiba Sultana**  
 ---
 
-## **Education**
+## <strong>Education</strong>
 
-- Jan.2021-Aug.2025(exp.)&nbsp;&nbsp;&nbsp;**Ph.D., Hydrogeology** – University of Wisconsin–Milwaukee 
-- Nov.2017–Jun.2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.S., Petroleum Geology** – University of Dhaka 
-- Jan.2013–Nov.2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B.S., Geology** – University of Dhaka  
+<table>
+  <tr>
+    <td style="width: 180px;">Jan.2021–Aug.2025 (exp.)</td>
+    <td><strong>Ph.D., Hydrogeology</strong> – University of Wisconsin–Milwaukee</td>
+  </tr>
+  <tr>
+    <td>Nov.2017–Jun.2019</td>
+    <td><strong>M.S., Petroleum Geology</strong> – University of Dhaka</td>
+  </tr>
+  <tr>
+    <td>Jan.2013–Nov.2017</td>
+    <td><strong>B.S., Geology</strong> – University of Dhaka</td>
+  </tr>
+</table> 
 
 ---
 
