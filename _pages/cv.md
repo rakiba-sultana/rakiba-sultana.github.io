@@ -24,9 +24,9 @@ Jan.2013–Nov.2017   B.S., Geology – University of Dhaka
 ## **Employment**
 
 <pre>
-Jan.2021–Present  **Research Assistant** – Dept. of Geosciences, UW–Milwaukee  
-Jan.2021–Jun.2025 **Teaching Assistant** – Dept. of Geosciences, UW–Milwaukee 
-Aug.2024–Jan.2025 **Graduate Research Intern** – U.S. Geological Survey, Upper Midwest Water Science Center, Madison   
+Jan.2021–Present  Research Assistant – Dept. of Geosciences, UW–Milwaukee  
+Jan.2021–Jun.2025 Teaching Assistant – Dept. of Geosciences, UW–Milwaukee 
+Aug.2024–Jan.2025 Graduate Research Intern – U.S. Geological Survey, Upper Midwest Water Science Center, Madison   
 </pre>
   
 ---
