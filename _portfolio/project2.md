@@ -11,8 +11,29 @@ Sultana, R., Johnson, R.H., Tigar, A.D., Wahl, T.J., Meurer, C.E., Hoss, K.N., X
 Paradis, C.J., Sultana, R., Dangelmayr, M.A., Johnson, R.H., Kent, R.D., 2025. Breakthrough Curve Separation Using Applied Solute Tracers. Groundwater gwat.13480. https://doi.org/10.1111/gwat.13480
 
 <figure style="text-align: center;">
+  <img src="/images/prj2.1.png" alt="Field1" width="400">
+  <figcaption style="font-size: 0.9em; color: gray;">
+    Figure 2.1. Field experiment set-up part - 1.
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="/images/prj2.2.png" alt="Field2" width="400">
+  <figcaption style="font-size: 0.9em; color: gray;">
+    Figure 2.2. Field experiment set-up part - 2.
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="/images/prj2.3.png" alt="Field3" width="400">
+  <figcaption style="font-size: 0.9em; color: gray;">
+    Figure 2.3. Field experiment set-up part - 3.
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
   <img src="/images/prj2.png" alt="Contaminant spike during floods" width="400">
   <figcaption style="font-size: 0.9em; color: gray;">
-    Figure 1. Contaminants spike during flooding events.
+    Figure 2.4. Contaminants spike during flooding events.
   </figcaption>
 </figure>
