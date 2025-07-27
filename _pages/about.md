@@ -19,13 +19,3 @@ My work integrates **analytical laboratory techniques** (e.g., Scanning Electron
 
 
 
-### Collaborating Institutions
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 10px;">
-  <img src="/images/logo uwm.png" alt="University of Wisconsin–Milwaukee" width="80" style="margin: 10px;">
-  <img src="/images/nsf logo.jpg" alt="NSF" width="150" style="margin: 10px;">
-  <img src="/images/USGS_logo_green.png" alt="USGS" width="100" style="margin: 10px;">
-  <img src="/images/DOE logo.png" alt="DOE" width="80" style="margin: 10px;">
-  <img src="/images/gsalogo.gif" alt="GSA" width="100" style="margin: 10px;">
-</div>
-
