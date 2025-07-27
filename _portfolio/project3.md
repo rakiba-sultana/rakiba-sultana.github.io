@@ -1,6 +1,6 @@
 ---
 title: "Project 3"
-excerpt: "<br/><img src='/images/prj3.1.1.1.1.png'>"
+excerpt: "<br/><img src='/images/prj3-1.1.png'>"
 collection: Projects
 ---
 
@@ -13,7 +13,7 @@ Rakiba Sultana, Corey D. Wallace, Aaron D. Tigar, Timothy J. Wahl, Kendyl N. Hos
 </a>
 
 <figure style="text-align: center;">
-  <img src="/images/prj3.1.1.1.1.png" alt="Model1" width="400">
+  <img src="/images/prj3-1.1.png" alt="Model1" width="400">
   <figcaption style="font-size: 0.9em; color: gray;">
     Figure 3.1. Graphical Abstract of Mechanisms in the Vadose Zone During Flood.
   </figcaption>
