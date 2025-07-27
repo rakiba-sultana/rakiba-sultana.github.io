@@ -62,7 +62,7 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 ## **Teaching & Mentorship**
 
 <strong>Teaching Assistant</strong> – 
-<a href="https://catalog.uwm.edu/courses/geo_sci/" target="_blank">UW–Milwaukee</a> (2021–2025)  
+<a href="https://catalog.uwm.edu/courses/geo_sci/" target="_blank">UWM_course_catalog</a> (2021–2025)  
 - Physical Hydrogeology (GEO SCI 463G, Fall 2022)  
 - Chemical Hydrogeology (GEO SCI 464G, Spring 2023 & 2024)  
 - Introduction to Earth Science (GEO SCI 100, multiple terms)  
