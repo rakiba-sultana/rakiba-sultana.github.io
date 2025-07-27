@@ -82,13 +82,14 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 - Chemical Hydrogeology (GEO SCI 464G, Spring 2023 & 2024)  
 - Introduction to Earth Science (GEO SCI 100, multiple terms)  
 
-**Mentorship:** Guided two high school students (2021) and one undergraduate student (2023) on GIS mapping and uranium geochemistry interpretation.  
+Mentorship: Guided two high school students (2021) and one undergraduate student (2023) on GIS mapping and uranium geochemistry interpretation.  
 </pre>
 
 ---
 
 ## **Research Funding & Awards**
 
+<pre>
 - **NSF INTERN Grant** – U.S. Geological Survey ($37,980, 2024–25)  
 - **GSA John T. & Carol G. McGill Research Award** – ($2,700, 2022–23)  
 - **UW–Milwaukee Research Excellence Award** – ($1,400, 2025)  
@@ -98,6 +99,7 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 
 ## **Professional Service**
 
+<pre>
 - Peer Reviewer (Elsevier, *Physics and Chemistry of the Earth*)  (2)
 - Guest Lecture: *Modeling Techniques for Hydrogeology* (Graduate course, 2025)  (1)
 </pre>
