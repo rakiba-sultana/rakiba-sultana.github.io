@@ -90,8 +90,8 @@ Mentorship: Guided two high school students (2021) and one undergraduate student
 ## **Research Funding & Awards**
 
 <pre>
-- NSF INTERN Grant – U.S. Geological Survey ($37,980, 2024–25)  
-- GSA John T. & Carol G. McGill Research Award – ($2,700, 2022–23)  
+- NSF INTERN Grant, Award no. 2229869 – U.S. Geological Survey ($37,980, 2024–25)  
+- GSA John T. & Carol G. McGill Research Award, Grant no. 13597-22 – ($2,700, 2022–23)  
 - UW–Milwaukee Research Excellence Award – ($1,400, 2025)  
 </pre>
 
