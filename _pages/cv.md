@@ -13,17 +13,17 @@ redirect_from:
 
 ## **Education**
 
-- Jan.2021-Aug.2025 (exp.)     **Ph.D., Hydrogeology** – University of Wisconsin–Milwaukee 
-- Nov.2017–Jun.2019            **M.S., Petroleum Geology** – University of Dhaka 
-- Jan.2013–Nov.2017            **B.S., Geology** – University of Dhaka  
+- Jan.2021-Aug.2025(exp.)&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D., Hydrogeology** – University of Wisconsin–Milwaukee 
+- Nov.2017–Jun.2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.S., Petroleum Geology** – University of Dhaka 
+- Jan.2013–Nov.2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B.S., Geology** – University of Dhaka  
 
 ---
 
 ## **Employment**
 
-- Jan.2021–Present             **Research Assistant** – Dept. of Geosciences, UW–Milwaukee  
-- Jan.2021–Jun.2025            **Teaching Assistant** – Dept. of Geosciences, UW–Milwaukee 
-- Aug.2024–Jan.2025            **Graduate Research Intern** – U.S. Geological Survey, Upper Midwest Water Science Center, Madison   
+- Jan.2021–Present&nbsp;&nbsp;&nbsp;&nbsp;**Research Assistant** – Dept. of Geosciences, UW–Milwaukee  
+- Jan.2021–Jun.2025&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant** – Dept. of Geosciences, UW–Milwaukee 
+- Aug.2024–Jan.2025&nbsp;&nbsp;&nbsp;&nbsp;**Graduate Research Intern** – U.S. Geological Survey, Upper Midwest Water Science Center, Madison   
 
 ---
 
