@@ -20,17 +20,17 @@ permalink: /cv/
 
 ## **Education**
 
-- **Ph.D., Hydrogeology** – University of Wisconsin–Milwaukee (Aug 2025 Expected)  
-- **M.S., Petroleum Geology** – University of Dhaka (2017–2019)  
-- **B.S., Geology** – University of Dhaka (2013–2017)  
+- Jan.2021-Aug.2025 (exp.)     **Ph.D., Hydrogeology** – University of Wisconsin–Milwaukee 
+- Nov.2017–Jun.2019            **M.S., Petroleum Geology** – University of Dhaka 
+- Jan.2013–Nov.2017            **B.S., Geology** – University of Dhaka  
 
 ---
 
 ## **Employment**
 
-- **Research Assistant** – Dept. of Geosciences, UW–Milwaukee (Jan 2021–Present)  
-- **Teaching Assistant** – Dept. of Geosciences, UW–Milwaukee (Jan 2021–Jun 2025)  
-- **Graduate Research Intern** – U.S. Geological Survey, Upper Midwest Water Science Center (Aug 2024–Jan 2025)  
+- Jan.2021–Present             **Research Assistant** – Dept. of Geosciences, UW–Milwaukee  
+- Jan.2021–Jun.2025            **Teaching Assistant** – Dept. of Geosciences, UW–Milwaukee 
+- Aug.2024–Jan.2025            **Graduate Research Intern** – U.S. Geological Survey, Upper Midwest Water Science Center, Madison   
 
 ---
 
@@ -74,7 +74,7 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 - Chemical Hydrogeology (GEO SCI 464G, Spring 2023 & 2024)  
 - Introduction to Earth Science (GEO SCI 100, multiple terms)  
 
-**Mentorship:** Guided high school and undergraduate students on GIS mapping and uranium geochemistry interpretation.  
+**Mentorship:** Guided two high school students (2021) and one undergraduate student (2023) on GIS mapping and uranium geochemistry interpretation.  
 
 ---
 
@@ -83,14 +83,13 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 - **NSF INTERN Grant** – U.S. Geological Survey ($37,980, 2024–25)  
 - **GSA John T. & Carol G. McGill Research Award** – ($2,700, 2022–23)  
 - **UW–Milwaukee Research Excellence Award** – ($1,400, 2025)  
-- Full list available upon request.  
 
 ---
 
 ## **Professional Service**
 
-- Peer Reviewer (Elsevier, *Physics and Chemistry of the Earth*)  
-- Guest Lecture: *Modeling Techniques for Hydrogeology* (Graduate course, 2025)  
+- Peer Reviewer (Elsevier, *Physics and Chemistry of the Earth*)  (2)
+- Guest Lecture: *Modeling Techniques for Hydrogeology* (Graduate course, 2025)  (1)
 
 ---
 
