@@ -14,8 +14,8 @@ redirect_from:
 ## **Education**
 
 - Jan.2021-Aug.2025(exp.)&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D., Hydrogeology** – University of Wisconsin–Milwaukee 
-- Nov.2017–Jun.2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;**M.S., Petroleum Geology** – University of Dhaka 
-- Jan.2013–Nov.2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;**B.S., Geology** – University of Dhaka  
+- Nov.2017–Jun.2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.S., Petroleum Geology** – University of Dhaka 
+- Jan.2013–Nov.2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B.S., Geology** – University of Dhaka  
 
 ---
 
