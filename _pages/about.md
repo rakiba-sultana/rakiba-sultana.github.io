@@ -26,4 +26,5 @@ My work integrates **analytical laboratory techniques** (e.g., Scanning Electron
   <img src="/images/nsf logo.jpg" alt="USGS" width="120" style="margin: 10px;">
   <img src="/images/USGS_logo_green.png" alt="USGS" width="120" style="margin: 10px;">
   <img src="/images/DOE logo.png" alt="USGS" width="80" style="margin: 10px;">
+  <img src="/images/gsalogo.gif" alt="USGS" width="80" style="margin: 10px;">
 </p>
