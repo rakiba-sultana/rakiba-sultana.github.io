@@ -112,6 +112,6 @@ Mentorship: Guided two high school students (2021) and one undergraduate student
   <img src="/images/logo uwm.png" alt="University of Wisconsin–Milwaukee" width="70" style="margin: 10px;">
   <img src="/images/nsf logo.jpg" alt="NSF" width="150" style="margin: 10px;">
   <img src="/images/USGS_logo_green.png" alt="USGS" width="100" style="margin: 10px;">
-  <img src="/images/DOE logo.png" alt="DOE" width="80" style="margin: 10px;">
-  <img src="/images/gsalogo.gif" alt="GSA" width="100" style="margin: 10px;">
+  <img src="/images/DOE logo.png" alt="DOE" width="70" style="margin: 10px;">
+  <img src="/images/gsalogo.gif" alt="GSA" width="70" style="margin: 10px;">
 </div>
