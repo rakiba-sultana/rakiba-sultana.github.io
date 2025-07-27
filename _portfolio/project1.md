@@ -16,8 +16,18 @@ Sultana, R., Dangelmayr, M.A., Paradis, C.J., Johnson, R.H., 2024. Combining fis
 </figure>
 
 <figure style="text-align: center;">
+  <img src="/images/prj1.3.png" alt="FT-SEM" width="400">
+  <figcaption style="font-size: 0.9em; color: gray;">
+    Figure 1.2. Scanning Electron Microscope and EDS 
+    <a href="https://uwm.edu/biology/research/facilities/microscopy-and-imaging-facility/" target="_blank">
+      (Microscopy and Imaging Facility)
+    </a>.
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
   <img src="/images/prj1.png" alt="FT-SEM" width="400">
   <figcaption style="font-size: 0.9em; color: gray;">
-    Figure 1.2. Trace-level uranium associated with Fe- and Al-rich coating aorund sediment grains.
+    Figure 1.3. Trace-level uranium associated with Fe- and Al-rich coating aorund sediment grains.
   </figcaption>
 </figure>
