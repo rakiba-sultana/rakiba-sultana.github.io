@@ -7,14 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
----
-layout: page
-title: "CV"
-permalink: /cv/
----
-
 # **Rakiba Sultana**  
 ---
 
@@ -42,11 +34,11 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 
 ## **Peer-Reviewed Publications**
 
-1. **Sultana, R.**, Wallace, C.D., et al. (2025). Mechanisms for Contaminant Transport in the Vadose Zone During Infiltration Events. *Journal of Contaminant Hydrology* (in review).  
-2. Hasan, A.B.M.R., **Sultana, R.**, et al. (2025). Experimental investigation of salt cycling in the vadose zone. *Journal of Contaminant Hydrology.* [DOI](https://doi.org/10.1016/j.jconhyd.2025.104686)  
+5. **Sultana, R.**, Wallace, C.D., et al. (2025). Mechanisms for Contaminant Transport in the Vadose Zone During Infiltration Events. *Journal of Contaminant Hydrology* (in review).  
+4. Hasan, A.B.M.R., **Sultana, R.**, et al. (2025). Experimental investigation of salt cycling in the vadose zone. *Journal of Contaminant Hydrology.* [DOI](https://doi.org/10.1016/j.jconhyd.2025.104686)  
 3. Paradis, C.J., **Sultana, R.**, et al. (2025). Breakthrough Curve Separation Using Solute Tracers. *Groundwater.* [DOI](https://doi.org/10.1111/gwat.13480)  
-4. **Sultana, R.**, Johnson, R.H., et al. (2024). Contaminant Mobilization During Experimental River Flooding Events. *Journal of Contaminant Hydrology.* [DOI](https://doi.org/10.1016/j.jconhyd.2024.104391)  
-5. **Sultana, R.**, Dangelmayr, M.A., et al. (2024). Uranium Host Phases via Fission-Track Radiography and SEM. *Environmental Earth Sciences.* [DOI](https://doi.org/10.1007/s12665-023-11373-5)  
+2. **Sultana, R.**, Johnson, R.H., et al. (2024). Contaminant Mobilization During Experimental River Flooding Events. *Journal of Contaminant Hydrology.* [DOI](https://doi.org/10.1016/j.jconhyd.2024.104391)  
+1. **Sultana, R.**, Dangelmayr, M.A., et al. (2024). Uranium Host Phases via Fission-Track Radiography and SEM. *Environmental Earth Sciences.* [DOI](https://doi.org/10.1007/s12665-023-11373-5)  
 
 ---
 
@@ -54,7 +46,6 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 
 - **Sultana, R.**, Johnson, R., Paradis, C., et al. (2024). Workflow for Groundwater Flow Modeling During Flooding Events. *AGU 2024 (Poster).*  
 - **Sultana, R.**, Johnson, R., Paradis, C. (2024). Contaminant Transport from Groundwater to Upper Vadose Zone. *GSA Connects 2024 (Poster).*  
-- Full list available on [Google Scholar](https://scholar.google.com/citations?user=y7jgYZQAAAAJ).  
 
 ---
 
@@ -69,7 +60,8 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 
 ## **Teaching & Mentorship**
 
-**Teaching Assistant** – UW–Milwaukee (2021–2025)  
+<strong>Teaching Assistant</strong> – 
+<a href="https://catalog.uwm.edu/courses/geo_sci/" target="_blank">UW–Milwaukee</a> (2021–2025)  
 - Physical Hydrogeology (GEO SCI 463G, Fall 2022)  
 - Chemical Hydrogeology (GEO SCI 464G, Spring 2023 & 2024)  
 - Introduction to Earth Science (GEO SCI 100, multiple terms)  
