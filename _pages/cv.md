@@ -108,11 +108,11 @@ Mentorship: Guided two high school students (2021) and one undergraduate student
 
 ### Collaborating Institutions
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 25px; margin-top: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
   <img src="/images/logo uwm.png" alt="University of Wisconsin–Milwaukee" width="70">
   <img src="/images/nsf logo.jpg" alt="NSF" width="150">
   <img src="/images/DOE logo.png" alt="DOE" width="70">
-  <img src="/images/gsalogo.gif" alt="GSA" width="100">
+  <img src="/images/gsalogo.gif" alt="GSA" width="80">
   <img src="/images/USGS_logo_green.png" alt="USGS" width="100">
 </div>
 
