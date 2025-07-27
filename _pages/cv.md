@@ -82,7 +82,7 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 - Chemical Hydrogeology (GEO SCI 464G, Spring 2023 & 2024)  
 - Introduction to Earth Science (GEO SCI 100, multiple terms)  
 
-Mentorship: Guided two high school students (2021) and one undergraduate student (2023) on GIS mapping and uranium geochemistry interpretation.  
+<strong>Mentorship</strong> – Guided two high school students (2021) and one undergraduate student (2023) on GIS mapping and uranium geochemistry interpretation.  
 </pre>
 
 ---
