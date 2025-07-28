@@ -1,14 +1,14 @@
 ---
 title: "Project 4"
-excerpt: "<br/><img src='/images/prj4.1.png' style='width:40%; max-width:200px;'>"
+excerpt: "<br/><img src='/images/prj4.1.png' style='width:50%; max-width:200px;'>"
 collection: Projects
 ---
 
 Natural recharge events, such as flooding, can lead to an increase in the contaminant concentration in groundwater. To determine the contaminant storage and release mechanisms during floods, a controlled in-situ tracer flooding event was conducted. In the experiment oxic river water was infiltrated through the vadose zone and into a nearby suboxic and contaminated unconfined aquifer. The field data showed vadose zone as the major compartment responsible for the contaminant storage and subsequent mobilization during floods via contaminant-rich pore-water release and evaporite dissolution. However, the field experiment did not have direct measurements from the vadose zone and the results were interpreted based on solute (contaminant) breakthrough curves collected from the groundwater. Thus, controlling parameters in the vadose zone responsible for the contaminant mobilization could not be determined. In order to formulate ideas about the vadose zone system dynamics during natural floods, the downward movement of the oxic river water and non-reactive tracer through the vadose zone to the groundwater during the experiment was simulated via numerical modeling. The modeling processing was done using open-source hydrologic model code MODFLOW-6 and the inputs were written using Python. The results showed vertical hydraulic conductivity, saturated water content, and residual water content in the unsaturated zone as key parameters controlling mobilization. Although the non-unique parameter behavior introduces limitations in modeling predictions, the study will help conceptualize the controlling factors in the unsaturated zone and serve as a framework for organizing field data from this zone.
 
-<figure style="text-align: center;">
-  <img src="/images/prj4.1.png" alt="Model1" style="width: 40%; max-width: 200px;">
-  <figcaption style="font-size: 0.9em; color: gray;">
+<figure style="text-align: center; margin: 0;">
+  <img src="/images/prj4.1.png" alt="Model1" style="width: 50%; max-width: 200px; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 4px;">
     Figure 4.1. 3D model domain of Riverton experimental site.
   </figcaption>
 </figure>
