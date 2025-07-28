@@ -13,6 +13,7 @@ Natural recharge events, such as flooding, can lead to an increase in the contam
   </figcaption>
 </figure>
 
+[📄 Download Project 4 PDF](/files/AGU_Rakiba Sultana.pdf)
 <figure style="text-align: center;">
   <img src="/images/prj4.2.png" alt="Model1" width="400">
   <figcaption style="font-size: 0.9em; color: gray;">
