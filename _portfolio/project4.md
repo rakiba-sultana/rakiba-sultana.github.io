@@ -1,6 +1,6 @@
 ---
 title: "Project 4"
-excerpt: "<br/><img src='/images/prj4.1.png' style='width:100%; max-width:250px;'>"
+excerpt: "<br/><img src='/images/prj4.1.png' style='width:40%; max-width:200px;'>"
 collection: Projects
 ---
 
