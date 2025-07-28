@@ -10,7 +10,7 @@ Infiltration events, such as natural river flooding or managed aquifer recharge,
 
 Hasan, A.B.M.R., **Sultana, R.**, Paradis, C.J., Pillai, K.M., 2025. Experimental investigation of upward and downward cycling of salt contaminants in the vadose zone. Journal of Contaminant Hydrology 104686. https://doi.org/10.1016/j.jconhyd.2025.104686
 
-<a href="https://github.com/rakiba-sultana/Analytical-transport-model" target="_blank">
+<a href="https://github.com/rakiba-sultana/Analytical-transport-model" target="_blank">   
   🔗 View Code on GitHub
 </a>
 
