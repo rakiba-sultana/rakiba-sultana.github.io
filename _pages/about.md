@@ -15,7 +15,7 @@ Hi, I’m **Rakiba Sultana**!
 I am a Ph.D. candidate (Aug. 2025 exp) at the Dept. of Geosciences, University of Wisconsin–Milwaukee.  
 My research broadly focuses on understanding **contaminant transport mechanisms in the vadose zone and groundwater during flooding events**. 
 
-My work integrates **analytical laboratory techniques** (e.g., Scanning Electron Microscopy with Energy-Dispersive X-ray Spectroscopy), **hydrogeological field experiments**, **analytical modeling**, and **numerical modeling** using the MODFLOW 6 suite, with model calibration in PEST and PEST++ and Python-based pre- and post-processing (FloPy, PyEMU).
+My work integrates **analytical laboratory techniques** (e.g., Scanning Electron Microscopy with Energy-Dispersive X-ray Spectroscopy), **hydrogeological field experiments**, **analytical modeling**, and **numerical modeling** using the MODFLOW 6 suite, with model calibration in PEST and PEST++ and Python-based pre- and post-processing (FloPy, pyEMU).
 
 
 
