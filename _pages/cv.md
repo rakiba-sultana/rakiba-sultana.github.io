@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-📄 [**Download CV (PDF)**](/files/RS-CV.pdf){:target="_blank"}
+📄 [**Download CV (PDF)**](/files/Rakiba-Sultana-CV-2025.pdf){:target="_blank"}
 
 # **Rakiba Sultana**  
 ---
