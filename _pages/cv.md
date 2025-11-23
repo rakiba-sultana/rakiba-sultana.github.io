@@ -43,7 +43,7 @@ Hydrogeology • Groundwater Contamination • Vadose Zone Processes • Contami
 ## **Peer-Reviewed Publications**
 
 <pre>
-(5) <strong>Sultana, R.</strong>, Wallace, C.D., Tigar, A.D., Wahl, T.W., Hoss, K.H., Johnson, R.H., Paradis, C.J., 2025.Mechanisms for Contaminant Transport in the Vadose Zone During Infiltration Events. In prep for Journal of Contaminant Hydrology. (in review)
+(5) <strong>Sultana, R.</strong>, Wallace, C.D., Tigar, A.D., Wahl, T.W., Hoss, K.H., Johnson, R.H., Paradis, C.J., 2025.Mechanisms for Contaminant Transport in the Vadose Zone During Infiltration Events. In prep for Journal of Contaminant Hydrology. (in prep)
 (4) Hasan, A.B.M.R., <strong>Sultana, R.</strong>, Paradis, C.J., Pillai, K.M., 2025. Experimental investigation of upward and downward cycling of salt contaminants in the vadose zone. Journal of Contaminant Hydrology 104686. [DOI]https://doi.org/10.1016/j.jconhyd.2025.104686.
 (3) Paradis, C.J., <strong>Sultana, R.</strong>, Dangelmayr, M.A., Johnson, R.H., Kent, R.D., 2025. Breakthrough Curve Separation Using Applied Solute Tracers. Groundwater gwat.13480. [DOI]https://doi.org/10.1111/gwat.13480
 (2) <strong>Sultana, R.</strong>, Johnson, R.H., Tigar, A.D., Wahl, T.J., Meurer, C.E., Hoss, K.N., Xu, S., Paradis, C.J., 2024b. Contaminant mobilization from the vadose zone to groundwater during experimental river flooding events. Journal of Contaminant Hydrology 265, 104391. [DOI]https://doi.org/10.1016/j.jconhyd.2024.104391 
